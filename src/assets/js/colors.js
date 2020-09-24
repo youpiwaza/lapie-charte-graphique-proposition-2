@@ -208,7 +208,7 @@ export function colors() {
         `;
 
         /// Generate custom CSS classes
-        console.log(customCssColorIndex);
+        // console.log(customCssColorIndex);
         chaineCustomCss += `
           .bg-color${customCssColorIndex}-brighter {
             background-color: ${brighter.toHexString()};
