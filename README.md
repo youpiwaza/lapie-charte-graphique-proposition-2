@@ -10,7 +10,7 @@ Pour les devs, si vous souhaitez utiliser le projet de manière classique (avec 
 
 ```bash
 # Accès au projet depuis la console
-# cd Documents\_dev\lapie\200922-charte-graphique-lapie-proposition-1
+# cd Documents\_dev\lapie-charte-graphique-proposition-2
 
 # Installation
 yarn
